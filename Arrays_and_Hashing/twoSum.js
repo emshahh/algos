@@ -30,6 +30,8 @@ function twoSum(array, target){
     if (difference.has(array[i])) return [i, difference.get(array[i])]
     //else set the difference between the target and element in the map as the key, its value being the index
     difference.set(target - array[i], i)
+
+    // console.log(difference)
   }
 }
 
