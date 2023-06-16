@@ -1,0 +1,20 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node insertAndFind.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emshahh/algos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emshahh/algos/issues"
+  },
+  "homepage": "https://github.com/emshahh/algos#readme"
+}
